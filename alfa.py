@@ -6,3 +6,4 @@
 
 for x in range(97 + 124):
     print(chr(x))
+
