@@ -9,5 +9,7 @@ variavel % 2 == 0
 qtd = int(input("digite um inteiro: "))
 
 for z in range(qtd):
-    if z % 2 != 0:
-        print(z)
+    if z == 100:
+        break
+else:
+    print('n?o encontrei')

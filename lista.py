@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-numeros = [1, 2, 3, 4]
+letras = ['a', 'b', 'c', 'd', 'e']
 
-print(len(numeros))
-
-
-
+print(len(letras))

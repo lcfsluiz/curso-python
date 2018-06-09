@@ -12,4 +12,3 @@ for pessoa in pessoas:
     nome = pessoa['nome']
     idade = pessoa['idade']
     print("O(A) {} tem {} anos".format(nome, idade))
-    print('------------')
