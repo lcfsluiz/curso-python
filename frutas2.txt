@@ -1,0 +1,5 @@
+Fruta: Lanraja 
+Fruta: Uva
+Fruta: Pessego
+Fruta: Pera
+Fruta: Abacaxi

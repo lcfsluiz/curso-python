@@ -1,0 +1,12 @@
+1 - 
+a- criar uma lista de pessoas  e exibir uma
+ mensagem de boas vindas para cada uma
+
+b - alterar um usuario desta lista 
+e exitir a mesma mensagem
+
+c - adicionar novas pessoas na lista
+  com os metodos append() e insert()
+
+d - reduzir o tamanho da lista
+ com metodo pop() ate zerar
